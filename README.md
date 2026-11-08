@@ -9,7 +9,7 @@
   <p align="center">
     <a href="https://github.com/kaligpt07/kaligpt"><img src="https://img.shields.io/badge/Flagship%20Repo-kaligpt07%2Fkaligpt-00d9ff?style=for-the-badge&logo=github&logoColor=black" alt="Main Repo"></a>
     <a href="https://kaligpt.co.in/"><img src="https://img.shields.io/badge/Official%20Website-kaligpt.co.in-00ff9d?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website"></a>
-    <a href="#-token-contract-address-ca-announcement"><img src="https://img.shields.io/badge/CA-SOON%20AVAILABLE-ff7b00?style=for-the-badge&logo=ethereum&logoColor=white" alt="CA Soon Available"></a>
+    <a href="#-official-token-contract-address-ca"><img src="https://img.shields.io/badge/CA-9xfYjuw9...pump-00d9ff?style=for-the-badge&logo=solana&logoColor=white" alt="Official CA"></a>
   </p>
 
   <p align="center">
@@ -24,13 +24,14 @@
 
 ---
 
-### 🚨 TOKEN CONTRACT ADDRESS (CA) ANNOUNCEMENT
+### 🚨 OFFICIAL TOKEN CONTRACT ADDRESS (CA)
 
 > [!IMPORTANT]
-> ### CONTRACT ADDRESS (CA): **SOON AVAILABLE**
-> The official **KaliGPT** token contract address has **NOT** been deployed yet.
-> - Official CA will **ONLY** be published directly on this profile, the [main repository (`kaligpt07/kaligpt`)](https://github.com/kaligpt07/kaligpt), and the [official website](https://kaligpt.co.in/).
-> - Beware of counterfeit tokens, imitation contracts, or unofficial presales. Always verify through official channels.
+> ### CONTRACT ADDRESS (CA): **`9xfYjuw9oop4Ehc7apHHx2wt3CM7UM4ReMJUWcUFpump`**
+> The official **KaliGPT** Solana token contract address is live:
+> - **CA**: `9xfYjuw9oop4Ehc7apHHx2wt3CM7UM4ReMJUWcUFpump`
+> - Official CA is published directly on this profile, the [main repository (`kaligpt07/kaligpt`)](https://github.com/kaligpt07/kaligpt), and the [official website](https://kaligpt.co.in/).
+> - Always verify the contract address matches before interacting.
 
 ---
 
