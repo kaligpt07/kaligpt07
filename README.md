@@ -8,7 +8,7 @@
 
   <p align="center">
     <a href="https://github.com/kaligpt07/kaligpt"><img src="https://img.shields.io/badge/Flagship%20Repo-kaligpt07%2Fkaligpt-00d9ff?style=for-the-badge&logo=github&logoColor=black" alt="Main Repo"></a>
-    <a href="https://kaligpt07.github.io/kaligpt/"><img src="https://img.shields.io/badge/Official%20Website-Live%20Demo-00ff9d?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website"></a>
+    <a href="https://kaligpt.co.in/"><img src="https://img.shields.io/badge/Official%20Website-kaligpt.co.in-00ff9d?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website"></a>
     <a href="#-token-contract-address-ca-announcement"><img src="https://img.shields.io/badge/CA-SOON%20AVAILABLE-ff7b00?style=for-the-badge&logo=ethereum&logoColor=white" alt="CA Soon Available"></a>
   </p>
 
@@ -29,7 +29,7 @@
 > [!IMPORTANT]
 > ### CONTRACT ADDRESS (CA): **SOON AVAILABLE**
 > The official **KaliGPT** token contract address has **NOT** been deployed yet.
-> - Official CA will **ONLY** be published directly on this profile, the [main repository (`kaligpt07/kaligpt`)](https://github.com/kaligpt07/kaligpt), and the [official website](https://kaligpt07.github.io/kaligpt/).
+> - Official CA will **ONLY** be published directly on this profile, the [main repository (`kaligpt07/kaligpt`)](https://github.com/kaligpt07/kaligpt), and the [official website](https://kaligpt.co.in/).
 > - Beware of counterfeit tokens, imitation contracts, or unofficial presales. Always verify through official channels.
 
 ---
@@ -80,7 +80,7 @@ python3 kaligpt.py --interactive
 | Resource | Link |
 | :--- | :--- |
 | 🛡️ **Flagship Repository** | [github.com/kaligpt07/kaligpt](https://github.com/kaligpt07/kaligpt) |
-| 🌍 **Official Website & Live Demo** | [kaligpt07.github.io/kaligpt](https://kaligpt07.github.io/kaligpt/) |
+| 🌍 **Official Website & Live Demo** | [kaligpt.co.in](https://kaligpt.co.in/) |
 | 📚 **Documentation Hub** | [kaligpt07/kaligpt/tree/main/docs](https://github.com/kaligpt07/kaligpt/tree/main/docs) |
 | 📦 **Latest Release (v1.2.0)** | [kaligpt07/kaligpt/releases](https://github.com/kaligpt07/kaligpt/releases) |
 | 🐞 **Issue Tracker** | [kaligpt07/kaligpt/issues](https://github.com/kaligpt07/kaligpt/issues) |
